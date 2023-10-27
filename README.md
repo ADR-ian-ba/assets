@@ -119,7 +119,7 @@ https://www.npmjs.com/package/easy-palette
 
 
 
-#### Best regards Adrian and happy coding! 🎉🎉
+### Best regards Adrian and happy coding! 🎉🎉
 
 
 
