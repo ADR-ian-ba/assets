@@ -28,6 +28,7 @@ this web uses 2 table, consisting of Users and Category
 
 the query used to create the script is as  follows 
 
+```sql
 CREATE TABLE Users (
     id INT PRIMARY KEY IDENTITY(1,1), 
     name VARCHAR(255), 
@@ -42,6 +43,8 @@ CREATE TABLE Category (
     category_name VARCHAR(255),
     FOREIGN KEY (user_id) REFERENCES [Users] (id)
 );
+```
+
 
 #### important !!!
 
@@ -50,9 +53,7 @@ the password will be hashed, so it is reccomended to just register using the fro
 <br/>
 
 for the  category however, if you create 1 user, the query for inserting data wll be
-
-
-
+```sql
 INSERT INTO Category (user_id, category_name)
 VALUES
     (1, 'Book'),
@@ -60,8 +61,11 @@ VALUES
     (1, 'Clothing'),
     (1, 'Electronics'),
     (1, 'Furniture');
+```
 
-note:(you can modify number 1 to be id of user in your database)
+
+###### note:
+(you can modify number 1 to be id of user in your database)
 
 <br/>
 
