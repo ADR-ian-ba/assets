@@ -102,7 +102,7 @@ Thank you for following this installation guide. We hope you find it helpful in 
 this readme is also available on :
 https://github.com/ADR-ian-ba/assets/blob/main/README.md
 
-phone : (+62) 89688199309
+phone : (+62) 896-881-99309
 
 email : [adrianpurnama209@gmail.com](mailto:adrianpurnama209@gmail.com)
 
