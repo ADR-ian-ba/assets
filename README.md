@@ -2,6 +2,10 @@
 
 ![Alt Text](https://github.com/ADR-ian-ba/assets/blob/main/Logo-removebg-preview.png?raw=true)
 
+This readme is also available on :
+https://github.com/ADR-ian-ba/assets/blob/main/README.md
+
+
 ## sqlserver
 
 #### server
@@ -94,6 +98,9 @@ npm run dev
 
 ### Contact
 Thank you for following this installation guide. We hope you find it helpful in setting up the system. If you encounter any issues or have questions, please don't hesitate to reach out to me for assistance or a live demo.
+
+this readme is also available on :
+https://github.com/ADR-ian-ba/assets/blob/main/README.md
 
 phone : (+62) 89688199309
 
