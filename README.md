@@ -2,9 +2,10 @@
 
 ![Alt Text](https://github.com/ADR-ian-ba/assets/blob/main/Logo-removebg-preview.png?raw=true)
 
+This is a installation guide for the project WearHouse, plese follow through and if there is any issue, please do contact me, my contact is available at the [End Of The Page](#contact)
+
 This readme is also available on :
 https://github.com/ADR-ian-ba/assets/blob/main/README.md
-
 
 ## sqlserver
 
@@ -96,6 +97,7 @@ npm run dev
 
 <br/>
 
+<a id="contact"></a>
 ### Contact
 Thank you for following this installation guide. I hope you find it helpful in setting up the system. If you encounter any issues or have questions, please don't hesitate to reach out to me for assistance or a live demo.
 
